@@ -10,23 +10,14 @@
 Vector3103/Vector3103 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
-[![alt text][3.1]][3]
-[![alt text][4.1]][4]
-[![alt text][5.1]][5]
-[![alt text][6.1]][6]
 
-[1.1]: https://imgur.com/orFP5r1
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
-[4.1]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
-[5.1]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
-[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+<a href="https://twitter.com/tanmay_hem">
+  <img src="https://user-images.githubusercontent.com/64733777/157854116-d7e2e995-ad3d-4ec1-b4dc-413ad0c0199f.png" width="100" height="100"> 
+</a>
 
-[1]: http://www.twitter.com/carlsednaoui
-[2]: http://www.facebook.com/sednaoui
-[3]: https://plus.google.com/+CarlSednaoui
-[4]: http://carlsed.tumblr.com
-[5]: http://dribbble.com/carlsednaoui
-[6]: http://www.github.com/carlsednaoui
+[2.1]: <img src="https://user-images.githubusercontent.com/64733777/157855173-1f5d2c68-3bc9-446b-916d-b47dc38f573b.png" width="100" height="100">
+[3.1]: <img src="https://user-images.githubusercontent.com/64733777/157854116-d7e2e995-ad3d-4ec1-b4dc-413ad0c0199f.png" width="100" height="100">
+[4.1]: <img src="https://user-images.githubusercontent.com/64733777/157854116-d7e2e995-ad3d-4ec1-b4dc-413ad0c0199f.png" width="100" height="100">
+[5.1]: <img src="https://user-images.githubusercontent.com/64733777/157854116-d7e2e995-ad3d-4ec1-b4dc-413ad0c0199f.png" width="100" height="100">
+[6.1]: <img src="https://user-images.githubusercontent.com/64733777/157854116-d7e2e995-ad3d-4ec1-b4dc-413ad0c0199f.png" width="100" height="100">
+
