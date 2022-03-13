@@ -28,4 +28,33 @@ You can click the Preview link to take a look at your changes.
   <img src="https://user-images.githubusercontent.com/64733777/158062949-fa2d6465-2502-4180-8b12-063c265faab5.png" width="50" height="50"> 
 </a>
 
+- <p><b>Languages and Tools: </b></p>
+
+<a href="https://www.python.org/">
+  <img src="https://user-images.githubusercontent.com/64733777/158064710-92b8abc7-7d84-4819-94dc-a142deea3272.png" width="50" height="50"> 
+</a>
+
+<a href="https://www.cprogramming.com/">
+  <img src="https://user-images.githubusercontent.com/64733777/158064956-a6575cb0-78c8-4dc6-a8d0-65f930539dcf.svg" width="50" height="50"> 
+</a>
+
+<a href="https://www.w3schools.com/cpp/">
+  <img src="https://user-images.githubusercontent.com/64733777/158065120-fab97486-a54f-4c79-9179-17c73d64b4de.png" width="50" height="50"> 
+</a>
+
+<a href="https://www.cprogramming.com/">
+  <img src="https://user-images.githubusercontent.com/64733777/158065450-e857cfa4-0218-4448-9b52-38cb8db9608f.png" width = "20%" height = "auto"> 
+</a>
+
+<a href="https://www.cprogramming.com/">
+  <img src="https://user-images.githubusercontent.com/64733777/158064956-a6575cb0-78c8-4dc6-a8d0-65f930539dcf.svg" width="50" height="50"> 
+</a>
+
+<a href="https://www.cprogramming.com/">
+  <img src="https://user-images.githubusercontent.com/64733777/158064956-a6575cb0-78c8-4dc6-a8d0-65f930539dcf.svg" width="50" height="50"> 
+</a>
+
+
+
+
 
