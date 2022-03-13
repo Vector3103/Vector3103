@@ -1,16 +1,17 @@
-- 👋 Hi, I’m Tanmay Agrawal
+- 👋 Hi, I’m <b>Tanmay Agrawal</b>
 - 👀 I’m interested in AI/ML, Data Science, Computer Vision, Animation, Web Dev, Crypto Trading. 
 - 🌱 I’m currently learning Deep Learning.
 - 💞️ I’m looking to collaborate on Open Source Projects.
-![alt text](https://images.wallpapersden.com/image/download/rick-and-morty-portal_a2xnZm2UmZqaraWkpJRmaGtlrWxrbQ.jpg)
 
+  <img src="https://images.wallpapersden.com/image/download/rick-and-morty-portal_a2xnZm2UmZqaraWkpJRmaGtlrWxrbQ.jpg" width = "70%" height = "auto"> 
+</a>
 
 
 <!---
 Vector3103/Vector3103 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+- <p><b>Connect with me: </b></p>
 <a href="https://twitter.com/tanmay_hem">
   <img src="https://user-images.githubusercontent.com/64733777/157854116-d7e2e995-ad3d-4ec1-b4dc-413ad0c0199f.png" width="50" height="50"> 
 </a>
@@ -28,7 +29,3 @@ You can click the Preview link to take a look at your changes.
 </a>
 
 
-
-<a href="https://twitter.com/tanmay_hem">
-  <img src="https://user-images.githubusercontent.com/64733777/157854116-d7e2e995-ad3d-4ec1-b4dc-413ad0c0199f.png" width="100" height="100"> 
-</a>
