@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://user-images.githubusercontent.com/64733777/158062878-45ea402d-868c-46d5-8600-36641267dc1a.png" width="50" height="50"> 
 </a>
 
-<a href="ishu310302@gmail.com">Send email>
+<a href="mailto:ishu310302@gmail.com">Send email
   <img src="https://user-images.githubusercontent.com/64733777/158062949-fa2d6465-2502-4180-8b12-063c265faab5.png" width="50" height="50"> 
 </a>
 
