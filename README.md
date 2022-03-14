@@ -42,16 +42,16 @@ You can click the Preview link to take a look at your changes.
   <img src="https://user-images.githubusercontent.com/64733777/158065120-fab97486-a54f-4c79-9179-17c73d64b4de.png" width="50" height="50"> 
 </a>
 
-<a href="https://www.cprogramming.com/">
+<a href="https://www.blender.org/">
   <img src="https://user-images.githubusercontent.com/64733777/158065450-e857cfa4-0218-4448-9b52-38cb8db9608f.png" width = "20%" height = "auto"> 
 </a>
 
-<a href="https://www.cprogramming.com/">
-  <img src="https://user-images.githubusercontent.com/64733777/158064956-a6575cb0-78c8-4dc6-a8d0-65f930539dcf.svg" width="50" height="50"> 
+<a href="https://html.com/">
+  <img src="https://user-images.githubusercontent.com/64733777/158107866-14c6f46a-2194-4b95-952f-a124cf3e4864.png" width = "50"height = "50">
 </a>
 
-<a href="https://www.cprogramming.com/">
-  <img src="https://user-images.githubusercontent.com/64733777/158064956-a6575cb0-78c8-4dc6-a8d0-65f930539dcf.svg" width="50" height="50"> 
+<a href="">
+  <img src="" width="50" height="50"> 
 </a>
 
 
