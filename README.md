@@ -50,9 +50,10 @@ You can click the Preview link to take a look at your changes.
   <img src="https://user-images.githubusercontent.com/64733777/158107866-14c6f46a-2194-4b95-952f-a124cf3e4864.png" width = "50"height = "50">
 </a>
 
-<a href="">
-  <img src="" width="50" height="50"> 
+<a href="https://www.javascript.com/">
+  <img src="https://user-images.githubusercontent.com/64733777/158111837-f41c2fbb-f320-416d-8266-c2f59a2e1691.png" width="50" height="50"> 
 </a>
+
 
 
 
