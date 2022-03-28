@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Deep Learning.
 - 💞️ I’m looking to collaborate on Open Source Projects.
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times+new+roman&size=25&duration=2000&color=00CD05&center=true&lines=I+am+a+ML+Developer;A+Crypto+Freak;I+also+make+NFTs;Basically+a+part+time+nerd)](https://git.io/typing-svg)
+
   <img src="https://images.wallpapersden.com/image/download/rick-and-morty-portal_a2xnZm2UmZqaraWkpJRmaGtlrWxrbQ.jpg" width = "70%" height = "auto"> 
 </a>
 
